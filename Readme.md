@@ -2,7 +2,7 @@
 
 A modern, responsive full-stack website designed for **BEAST FEAST Cafe, Meerut**.
 
-## ✨ Features
+## Features
 
 - Responsive modern UI
 - Home, About, Menu and Gallery sections
@@ -12,14 +12,14 @@ A modern, responsive full-stack website designed for **BEAST FEAST Cafe, Meerut*
 - MongoDB contact form storage
 - REST API with Express.js
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:** React.js, Vite, Tailwind CSS v4, Axios  
 **Backend:** Node.js, Express.js, Mongoose  
 **Database:** MongoDB Atlas  
 **Deployment:** Vercel & Render
 
-## 📂 Structure
+## Structure
 
 ```text
 BEAST-FEAST-Cafe/
@@ -43,6 +43,8 @@ cd backend
 npm install
 npm run dev
 ```
+
+Environmental variables
 
 ```bash
 PORT=5000
