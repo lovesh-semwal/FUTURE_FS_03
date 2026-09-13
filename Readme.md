@@ -51,13 +51,11 @@ MONGO_URI=your_mongodb_connection_string
 
 ## Business
 
-```text
 BEAST FEAST Cafe
 Shahkumbri Plaza, GA1, Baghpat Road, near DPS, Malyana, Meerut, Uttar Pradesh 250002
 
 Phone: +91 79063 55028
-```
 
-```text
+## Author
+
 Built with ❤️ by Lovesh Semwal
-```
