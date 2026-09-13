@@ -22,23 +22,7 @@ const Footer = () => {
               satisfying your biggest food cravings.
             </p>
 
-            <div className="mt-6! flex gap-3">
-              <a
-                href="#"
-                aria-label="BEAST FEAST Instagram"
-                className="flex h-10 w-10 items-center justify-center rounded-full bg-white/10 transition hover:bg-orange-600"
-              >
-                <FaInstagram />
-              </a>
-
-              <a
-                href="#"
-                aria-label="BEAST FEAST Facebook"
-                className="flex h-10 w-10 items-center justify-center rounded-full bg-white/10 transition hover:bg-orange-600"
-              >
-                <FaFacebookF />
-              </a>
-            </div>
+            
           </div>
 
           {/* Quick Links */}
@@ -90,17 +74,17 @@ const Footer = () => {
             <div className="mt-5! space-y-3 text-gray-400">
               <div className="flex justify-between gap-4">
                 <span>Monday – Friday</span>
-                <span>11 AM – 9 PM</span>
+                <span>12:00 – 22:00</span>
               </div>
 
               <div className="flex justify-between gap-4">
                 <span>Saturday</span>
-                <span>11 AM – 9 PM</span>
+                <span>12:00 – 22:00</span>
               </div>
 
               <div className="flex justify-between gap-4">
                 <span>Sunday</span>
-                <span>11 AM – 9 PM</span>
+                <span>12:00 – 22:00</span>
               </div>
             </div>
           </div>
