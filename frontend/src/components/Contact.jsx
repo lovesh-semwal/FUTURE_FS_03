@@ -157,7 +157,7 @@ const Contact = () => {
                 <p className="font-bold">Opening Hours</p>
 
                 <p className="mt-1! text-sm text-gray-400">
-                  Daily: 11:00 AM – 9:00 PM
+                  Daily: 12:00 – 22:00
                 </p>
               </div>
             </div>
